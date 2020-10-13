@@ -8,11 +8,13 @@ I'm passionate about technology, and I'm always open to new challenges.
 
 ### Ao infinito e além 🚀
 
-📍 From São Paulo - SP
+📌 From São Paulo - SP
 
 👩🏻‍💻 Computer engineer
 
-🌱 Currently learningJavaScript, React and React Native
+👾 Full Stack developer Recode Pro
+
+🌱 Currently learning JavaScript, React and React Native
 
 💞  Sharing knowledge at | Girls in Code
 
