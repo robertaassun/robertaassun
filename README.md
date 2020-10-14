@@ -2,6 +2,7 @@
 # Hi there 🖖
 
 My name is roberta, Im student of computer engineering, 
+
 beginner in software developer 👩🏻‍💻
 from Brazil 🇧🇷.
 
