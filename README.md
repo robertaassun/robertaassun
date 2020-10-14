@@ -1,8 +1,8 @@
 
 # Hi there 🖖
 
-My name is roberta, I am from Brazil 🇧🇷. I am a student of computer engineering.  
-beginner in software developer 👩🏻‍💻
+My name is roberta, Im student of computer engineering, beginner in software developer 👩🏻‍💻
+from Brazil 🇧🇷.
 
 I'm passionate about technology, and I'm always open to new challenges.
 
@@ -17,6 +17,5 @@ I'm passionate about technology, and I'm always open to new challenges.
 🌱 Currently learning JavaScript, React and React Native
 
 💞  Sharing knowledge at | Girls in Code
-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Roberta%20Assunção-FF1493?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertaassuncao/)](https://www.linkedin.com/in/robertaassuncao/)
