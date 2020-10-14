@@ -1,7 +1,8 @@
 
 # Hi there 🖖
 
-My name is roberta, Im student of computer engineering, beginner in software developer 👩🏻‍💻
+My name is roberta, Im student of computer engineering, 
+beginner in software developer 👩🏻‍💻
 from Brazil 🇧🇷.
 
 I'm passionate about technology, and I'm always open to new challenges.
