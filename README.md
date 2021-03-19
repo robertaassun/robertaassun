@@ -1,7 +1,7 @@
 
 # Hi there 🖖
 
-My name is roberta, Im student of computer engineering, 
+My name is Roberta, Im student of computer engineering, 
 
 beginner in software developer 👩🏻‍💻
 from Brazil 🇧🇷.
