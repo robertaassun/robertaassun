@@ -4,7 +4,7 @@
 
 👩🏻‍💻 Computer engineer
 
-🌱 Currently learning JavaScript
+🌱 Currently learning JavaScript and Kotlin
 
  <div>
   <a href="https://github.com/robertaassun">
