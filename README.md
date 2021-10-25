@@ -9,7 +9,7 @@
   <a href="https://github.com/robertaassun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertaassun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertaassun&layout=compact&langs_count=7&theme=dracula"/>
-   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/95d01dcacc6963261a577e51cf1c4e3f.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/95d01dcacc6963261a577e51cf1c4e3f.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
 </div>
   
 <div style="display: inline_block"><br>
