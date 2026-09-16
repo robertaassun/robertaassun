@@ -3,8 +3,6 @@
 
 👩🏻‍💻 Computer engineer
 
-🌱 Currently learning JavaScript and Kotlin
-
  <div>
   <a href="https://github.com/robertaassun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertaassun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
